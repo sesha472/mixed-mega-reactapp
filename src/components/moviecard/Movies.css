@@ -1,0 +1,14 @@
+
+
+.Movies{
+    background-color: rgb(29, 106, 136);
+    width: 90%;
+    margin:90px auto;
+    border-radius: 20px;
+    box-shadow: 10px 20px 60px rgb(12, 48, 51);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    
+}

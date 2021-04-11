@@ -1,0 +1,20 @@
+.Personslist{
+    background-color: greenyellow;
+    box-shadow: 10px 20px 60px black;
+    width: 80%;
+    margin:20px auto;
+    border-radius: 20px;
+
+
+}
+
+.Persons button{
+    background-color: hotpink;
+    border:none;
+    text-decoration: none;
+    outline: none;
+    padding: 6px;
+    border-radius: 4px;
+    margin: 10px;
+
+}

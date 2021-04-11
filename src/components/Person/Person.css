@@ -1,0 +1,29 @@
+
+.Person{
+
+    background-color: rgb(123, 219, 198);
+    padding: 20px;
+    font-size: 1.2rem;
+    width: 50%;;
+    margin:40px auto;
+    box-shadow: 10px 20px 60px black;
+    border-radius: 20px;
+
+}
+
+.Person input{
+
+    background-color: rgb(52, 94, 88);
+    padding: 10px;
+    border: none;
+    width: 90%;
+    outline: none;
+    text-decoration: none;
+    font-size: 1.2rem;
+    border-radius: 7px;
+    box-shadow: -10px 8px 40px #0e7579;
+    
+
+    
+
+}

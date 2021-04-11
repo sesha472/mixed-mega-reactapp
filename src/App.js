@@ -1,23 +1,34 @@
-import logo from './logo.svg';
 import './App.css';
+import Persons from './components/Persons/Persons';
+import Calculator from './components/calculator/Calculator';
+import Movies from './components/moviecard/Movies';
+
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+       <h1>this is seshah sai kaumar  </h1><br/>
+       <h1>this is seshah sai kaumar  </h1>
+       <h1>this is seshah sai kaumar  </h1>
+       <h1>this is seshah sai kaumar  </h1>
+       <h1>this is seshah sai kaumar  </h1>
+      
       </header>
+      <br/>
+      <br/>
+      <br/>
+      <div>
+        <Persons/>
+      </div>
+      <div>
+        <Calculator/>
+      </div>
+      <div>
+        <Movies />
+      </div>
+
+      
     </div>
   );
 }
